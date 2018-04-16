@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbar_elevation">4dp</dimen>
+    <dimen name="type_text_size">18sp</dimen>
+    <dimen name="price_text_size">16sp</dimen>
+    <dimen name="type_text_item_margin">18dp</dimen>
+    <dimen name="text_detail_default_margin">14dp</dimen>
+    <dimen name="text_detail_weight_margin_start">4dp</dimen>
+</resources>

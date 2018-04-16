@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Foursquare</string>
+    <string name="foursquare_image_content_desc">"Foursquare image"</string>
+    <string name="foursquare_toggle">"Foursquare toggle"</string>
+</resources>
